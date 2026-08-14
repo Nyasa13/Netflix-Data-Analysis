@@ -124,6 +124,26 @@ Examples include:
 * Statistical distributions
 * Other exploratory visualizations
 
+## 📊 Visualizations
+
+### Movies vs TV Shows
+![Movies vs TV Shows](netflix_content_type.png)
+
+### Netflix Titles Added by Year
+![Netflix Titles Added by Year](netflix_titles_by_year.png)
+
+### Movie Duration Distribution
+![Movie Duration Distribution](netflix_movie_duration.png)
+
+### Top 10 Countries by Number of Titles
+![Top Countries](netflix_top_countries.png)
+
+### Top 10 Directors by Number of Titles
+![Top Directors](netflix_top_directors.png)
+
+### Top 10 Netflix Content Ratings
+![Content Ratings](netflix_top_ratings.png)
+
 ## 📁 Project Structure
 
 ```text
@@ -131,7 +151,14 @@ Netflix-Data-Analysis/
 │
 ├── Netflix_Data_Analysis.ipynb
 ├── netflix_titles.csv
-└── README.md
+├── README.md
+│
+├── netflix_content_type.png
+├── netflix_titles_by_year.png
+├── netflix_movie_duration.png
+├── netflix_top_countries.png
+├── netflix_top_directors.png
+└── netflix_top_ratings.png
 ```
 
 ## 🚀 How to Run
